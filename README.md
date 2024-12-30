@@ -17,7 +17,7 @@ The minimum value in the list is: 1
 
 ## How to Run
 1. Ensure Dart SDK is installed on your system.
-2. Save the file as `task.dart`.
+2. Save the file as `minimum_value_of_list.dart`.
 3. Run the file using the command:
    ```bash
    dart run minimum_value_of_list.dart
